@@ -12,6 +12,9 @@ $(function () {
     header: "h3",
     heightStyle: "fill", 
     icons: { header: "ui-icon-plus", activeHeader: "ui-icon-minus" }
-    //disabled: true, event: "mouseover"
+
+    /* Options */
+    /* active, animate, collapsible, disabled,
+      event, header, heightStyle, icons */
   });
 });
